@@ -1,6 +1,7 @@
-Ò»¡¢±àÒë·½·¨
-Ô´Âë°üÀ¨Wuxia_preprocess¡¢Wuxia_getFeature¡¢Wuxia_getMap¡¢Wuxia_pagerank¡¢Wuxia_LPAÎå¸ö²¿·Ö£¬Ê¹ÓÃIntelliJ IDEA·Ö±ğ±àÒë²¢´ò°ü³ÉÎå¸öjar°ü¡£ËùÓĞµÄ°ü¶¼ĞèÒªÒÀÀµhadoopµÄhadoop-common- 2.7.1.jar¡¢hadoop-mapreduce-client-core-2.7.1.jarºÍmapreduce/ libÏÂµÄ°ü£¬ÆäÖĞWuxia_preprocessĞèÒª¶îÍâÒÀÀµansj_seg-5.1.6.jar¡¢tree_split -1.5.jar¡¢nlp-lang-1.7.7.jar¡£
-¶ş¡¢ÔËĞĞ·½·¨
+ä¸€ã€ç¼–è¯‘æ–¹æ³•
+æºç åŒ…æ‹¬Wuxia_preprocessã€Wuxia_getFeatureã€Wuxia_getMapã€Wuxia_pagerankã€Wuxia_LPAäº”ä¸ªéƒ¨åˆ†ï¼Œä½¿ç”¨IntelliJ IDEAåˆ†åˆ«ç¼–è¯‘å¹¶æ‰“åŒ…æˆäº”ä¸ªjaråŒ…ã€‚æ‰€æœ‰çš„åŒ…éƒ½éœ€è¦ä¾èµ–hadoopçš„hadoop-common- 2.7.1.jarã€hadoop-mapreduce-client-core-2.7.1.jarå’Œmapreduce/ libä¸‹çš„åŒ…ï¼Œå…¶ä¸­Wuxia_preprocesséœ€è¦é¢å¤–ä¾èµ–ansj_seg-5.1.6.jarã€tree_split -1.5.jarã€nlp-lang-1.7.7.jarã€‚
+
+äºŒã€è¿è¡Œæ–¹æ³•
 1. hadoop jar Wuxia_preprocess.jar novels preprocess
 2. hadoop jar Wuxia_getFeature.jar preprocess feature
 3. hadoop jar Wuxia_getMap.jar feature map
