@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="hadoop-common-2.7.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../hadoop/hadoop-2.7.1/share/hadoop/common/hadoop-common-2.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../hadoop/hadoop-2.7.1/share/hadoop/mapreduce/hadoop-mapreduce-client-core-2.7.1.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../hadoop/hadoop-2.7.1/share/hadoop/mapreduce/lib" />
+      <root url="file://$PROJECT_DIR$/../../../hadoop/hadoop-2.7.1/share/hadoop/common" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../hadoop/hadoop-2.7.1/share/hadoop/common/jdiff" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../hadoop/hadoop-2.7.1/share/hadoop/common" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../hadoop/hadoop-2.7.1/share/hadoop/mapreduce/lib" recursive="false" />
+  </library>
+</component>
